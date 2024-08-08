@@ -1,0 +1,6 @@
+@DesafioPraticoRocket_2_HostAddress = http://localhost:5247
+
+GET {{DesafioPraticoRocket_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
